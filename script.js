@@ -1,5 +1,5 @@
 //your code here
-const nums = [2, 1, 2];
+const nums = {};
 const result = majorityElement(nums);
 console.log(result); // Output: 2
 
